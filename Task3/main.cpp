@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 void main() {
-Double start, end1, step;
+double start, end1, step;
 std::cout << "Введите начальное значение x:";
 std::cin >> start; //Задаем исходное значение переменной;
 std::cout << "Введите конечное значение x:";
